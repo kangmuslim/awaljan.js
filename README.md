@@ -1,0 +1,2 @@
+# awaljan.js
+awaljan
